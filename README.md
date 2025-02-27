@@ -24,7 +24,7 @@ Simply download the `main-pathOS-optimized.py` file to your project directory.
 ### Basic Usage
 
 ```python
-from main-pathOS-optimized-680129 import write_paths_to_file
+from main-pathOS-optimized import write_paths_to_file
 
 # Scan a directory and write all paths to a file
 write_paths_to_file("E:\\", "Data\\output.txt", 4)
@@ -41,7 +41,7 @@ write_paths_to_file("E:\\", "Data\\output.txt", 4)
 You can also run the module directly:
 
 ```bash
-python main-pathOS-optimized-680129.py
+python main-pathOS-optimized.py
 ```
 
 By default, it will scan "E:\" and save results to "Data\output.txt" using 4 processes.
