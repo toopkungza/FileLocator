@@ -1,4 +1,4 @@
-# DirectoryScanner
+# SimpleDirectoryScanner
 
 A high-performance Python utility for scanning directory structures and saving all discovered paths to a file, optimized for large file systems.
 
