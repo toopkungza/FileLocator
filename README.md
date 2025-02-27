@@ -12,7 +12,7 @@ A high-performance Python utility for scanning directory structures and saving a
 
 ## Installation
 
-Simply download the `main-pathOS-optimized-680129.py` file to your project directory.
+Simply download the `main-pathOS-optimized.py` file to your project directory.
 
 ## Requirements
 
