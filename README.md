@@ -66,4 +66,4 @@ By default, it will scan "E:\" and save results to "Data\output.txt" using 4 pro
 
 ## License
 
-[Insert your license information here]
+[MIT License](LICENSE)
